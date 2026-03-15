@@ -47,6 +47,9 @@
 
 ## Output:
 
+![alt text](<Screenshot 2026-03-15 220737.png>)
+
+![alt text](<Screenshot 2026-03-15 221136.png>)
 
 ### Name: SIVAPRASATH B
 ### Register Number: 212225230268
